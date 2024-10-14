@@ -7,10 +7,12 @@ https://go.drugbank.com/
 https://drugs.dxy.cn/（用药助手APP）
 药物相互作用
 https://go.drugbank.com/drug-interaction-checker
-化合物性质预测
+化合物(药物)性质预测
 http://www.swissadme.ch/
-化合物作用受体预测
+化合物(药物)作用受体预测
 http://www.swisstargetprediction.ch/index.php
+化合物(药物)改造优化
+https://cadd.nscc-tj.cn/deploy/optadmet/checker/
 反应实例
 https://www.stolaf.edu/depts/chemistry/courses/toolkits/247/practice/medialib/data/
 https://www.organic-chemistry.org/reactions.htm
