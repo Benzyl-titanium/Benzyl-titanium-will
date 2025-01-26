@@ -4,7 +4,7 @@ https://api.chemicalbook.com/ProductIndex.aspx
 https://pubchem.ncbi.nlm.nih.gov/
 药物检索
 https://go.drugbank.com/
-https://drugs.dxy.cn/（用药助手APP）
+https://drugs.dxy.cn/pc
 药物相互作用
 https://go.drugbank.com/drug-interaction-checker
 化合物(药物)性质预测
