@@ -30,7 +30,7 @@ https://scholar.google.com/
 https://panda985.com/  
 # 中科院公益学术  
 https://pubscholar.cn/  
-sci-sub学术下载  
+# sci-sub学术下载  
 https://www.scihub.net.cn/  
 https://sci-hub.se/  
 # 库问学术
