@@ -39,11 +39,11 @@ http://www.koovin.com/
 https://worldwide.espacenet.com/  
 # 美国专利文献下载
 https://www.drugfuture.com/uspat/us_patent.asp  
-中国专利文献下载
-https://www.drugfuture.com/cnpat/cn_patent.asp
-精神百科wiki
-https://m.psychonautwiki.org/wiki/Main_Page
-学术新闻
-https://phys.org/
-医学GPT
-https://medisearch.io/
+# 中国专利文献下载
+https://www.drugfuture.com/cnpat/cn_patent.asp  
+# 精神百科wiki
+https://m.psychonautwiki.org/wiki/Main_Page  
+# 学术新闻
+https://phys.org/  
+# 医学GPT
+https://medisearch.io/  
