@@ -22,6 +22,8 @@ https://proteins.plus/
 https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/  
 https://www.ebi.ac.uk/  
 https://www.uniprot.org/  
+# 生物活性分子数据库
+https://www.ebi.ac.uk/chembl/  
 # 人类基因数据库
 https://www.genecards.org/  
 # 谷歌学术
