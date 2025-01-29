@@ -10,8 +10,9 @@ https://drugs.dxy.cn/pc
 https://go.drugbank.com/drug-interaction-checker  
 # 药物研发数据库
 https://www.selleck.cn/  
-# insight临床药物数据库
+# 临床药物数据库
 https://db.dxy.cn/  
+https://synapse.zhihuiya.com/blog
 # 药物靶点数据库
 https://www.guidetopharmacology.org/  
 # 化合物(药物)性质预测
