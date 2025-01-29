@@ -58,6 +58,8 @@ https://www.drugfuture.com/uspat/us_patent.asp
 https://www.drugfuture.com/cnpat/cn_patent.asp  
 # 精神百科wiki
 https://m.psychonautwiki.org/wiki/Main_Page  
+# 益智药
+https://nootropicsexpert.com/
 # 学术新闻
 https://phys.org/  
 # 医学GPT
