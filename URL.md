@@ -6,6 +6,8 @@ https://chemical.zhihuiya.com/search#/
 # 药物检索
 https://go.drugbank.com/  
 https://drugs.dxy.cn/pc  
+https://drugcentral.org/  
+https://www.drugs.com/
 # 药物相互作用  
 https://go.drugbank.com/drug-interaction-checker  
 # 药物研发数据库
