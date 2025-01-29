@@ -22,6 +22,11 @@ https://www.guidetopharmacology.org/
 https://www.ebi.ac.uk/chembl/  
 ## 人类基因数据库
 https://www.genecards.org/  
+# 软件下载
+## kingdraw结构编辑器
+https://kingdraw.com/index?name=download
+## 药物全合成路线
+https://chemistrybydesign.oia.arizona.edu/
 # 化合物(药物)性质预测
 http://www.swissadme.ch/  
 # 化合物(药物)作用受体预测
