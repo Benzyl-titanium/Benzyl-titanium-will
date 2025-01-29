@@ -1,7 +1,7 @@
 # 化合物检索
 https://www.chemspider.com/  
 https://api.chemicalbook.com/ProductIndex.aspx  
-https://pubchem.ncbi.nlm.nih.gov/ 
+https://pubchem.ncbi.nlm.nih.gov/  
 https://chemical.zhihuiya.com/search#/
 # 药物检索
 https://go.drugbank.com/  
