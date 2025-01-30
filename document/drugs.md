@@ -1,3 +1,3 @@
-[~~瞎写的文章~~](document/右美沙芬的结构改造及其受体活性变化分析：从多靶点作用到1-(2-phenylethyl)-4-[3-(trifluoromethyl)phenyl]piperidine的药理探索.docx)  
-[试剂清单](document/苄钛实验室-化学试剂管理标准清单(不完全统计)(带结构式).xlsx)  
-[药品清单](document/药品基本信息.xlsx)  
+[~~瞎写的文章~~](https://github.com/Benzyl-titanium/Benzyl-titanium-will/raw/main/document/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%AC%E7%9A%84%E7%BB%93%E6%9E%84%E6%94%B9%E9%80%A0%E5%8F%8A%E5%85%B6%E5%8F%97%E4%BD%93%E6%B4%BB%E6%80%A7%E5%8F%98%E5%8C%96%E5%88%86%E6%9E%90%EF%BC%9A%E4%BB%8E%E5%A4%9A%E9%9D%B6%E7%82%B9%E4%BD%9C%E7%94%A8%E5%88%B01-(2-phenylethyl)-4-%5B3-(trifluoromethyl)phenyl%5Dpiperidine%E7%9A%84%E8%8D%AF%E7%90%86%E6%8E%A2%E7%B4%A2.docx)  
+[试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/raw/main/document/%E8%8B%84%E9%92%9B%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%8C%96%E5%AD%A6%E8%AF%95%E5%89%82%E7%AE%A1%E7%90%86%E6%A0%87%E5%87%86%E6%B8%85%E5%8D%95(%E4%B8%8D%E5%AE%8C%E5%85%A8%E7%BB%9F%E8%AE%A1)(%E5%B8%A6%E7%BB%93%E6%9E%84%E5%BC%8F).xlsx)  
+[药品清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/raw/main/document/%E8%8D%AF%E5%93%81%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF.xlsx)  
