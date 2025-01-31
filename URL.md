@@ -27,16 +27,22 @@ https://www.genecards.org/
 https://kingdraw.com/index?name=download
 ## 药物全合成路线
 https://chemistrybydesign.oia.arizona.edu/
-# 化合物(药物)性质预测
+# 计算机辅助药物设计
+https://www.molecular-modelling.ch/swiss-drug-design.html
+## 药物分子与目标蛋白质相互作用预测
+http://www.swissdock.ch/  
+## 药物分子性质预测
 http://www.swissadme.ch/  
-# 化合物(药物)作用受体预测
-http://www.swisstargetprediction.ch/index.php  
-# 化合物(药物)改造优化
+## 药物分子作用受体预测
+http://www.swisstargetprediction.ch/index.php    
+## 药物分子改造优化
 https://cadd.nscc-tj.cn/deploy/optadmet/checker/  
+## 先导化合物结构修饰
+http://www.swissbioisostere.ch/  
 # 反应实例
 https://www.stolaf.edu/depts/chemistry/courses/toolkits/247/practice/medialib/data/  
 https://www.organic-chemistry.org/reactions.htm  
-# 药物分子与蛋白质作用位点可视化
+# 蛋白质结构数据库
 https://www.rcsb.org/  
 https://proteins.plus/  
 https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/  
