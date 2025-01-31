@@ -22,13 +22,17 @@ https://www.guidetopharmacology.org/
 https://www.ebi.ac.uk/chembl/  
 ## 人类基因数据库
 https://www.genecards.org/  
-# 软件下载
-## kingdraw结构编辑器
-https://kingdraw.com/index?name=download
-## 药物全合成路线
-https://chemistrybydesign.oia.arizona.edu/
+## 蛋白质结构数据库
+https://www.rcsb.org/  
+https://proteins.plus/  
+https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/  
+https://www.ebi.ac.uk/  
+https://www.uniprot.org/  
+https://alphafold.ebi.ac.uk/
 # 计算机辅助药物设计
 https://www.molecular-modelling.ch/swiss-drug-design.html
+## AlphaFold蛋白质结构预测
+https://alphafoldserver.com/
 ## 药物分子与目标蛋白质相互作用预测
 http://www.swissdock.ch/  
 ## 药物分子性质预测
@@ -42,12 +46,6 @@ http://www.swissbioisostere.ch/
 # 反应实例
 https://www.stolaf.edu/depts/chemistry/courses/toolkits/247/practice/medialib/data/  
 https://www.organic-chemistry.org/reactions.htm  
-# 蛋白质结构数据库
-https://www.rcsb.org/  
-https://proteins.plus/  
-https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/  
-https://www.ebi.ac.uk/  
-https://www.uniprot.org/  
 # 文献检索
 ## 谷歌学术
 https://scholar.google.com/  
