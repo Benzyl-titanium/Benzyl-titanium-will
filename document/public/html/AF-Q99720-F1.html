@@ -1,0 +1,160 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NGL Viewer</title>
+    <script src="https://cdn.jsdelivr.net/gh/nglviewer/ngl@2.4.0/dist/ngl.js"></script>
+  </head>
+  <body>
+    <div id="viewport" style="width: 100%; height: 100%"></div>
+  </body>
+</html>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+</style>
+
+<script>
+  function zoomNGL(myZoom, chainOfSelectedAtom, pdb) {
+    if (pdb.length > 50) {
+      var pdb = new Blob([pdb], { type: "text/plain" });
+    }
+
+    stage.loadFile(pdb, { ext: "pdb" }).then(function (o) {
+      // Remove representation of previous selection
+      if (typeof bns !== "undefined") {
+        bns.setVisibility(false);
+      }
+      if (typeof lic !== "undefined") {
+        lic.setVisibility(false);
+      }
+      if (typeof pol !== "undefined") {
+        pol.setVisibility(false);
+      }
+      if (typeof contacts !== "undefined") {
+        contacts.setVisibility(false);
+      }
+
+      // Define ball and stick and licorice representations.
+      var bnsRepr = o.addRepresentation("ball+stick", { sele: "NONE" });
+      var licRepr = o.addRepresentation("licorice", { sele: "NONE" });
+      var conRepr = o.addRepresentation("contact", {
+        sele: "NONE",
+        hydrogenBond: true,
+        hydrophobic: false,
+        halogenBond: false,
+        ionicInteraction: true,
+        metalCoordination: false,
+        cationPi: false,
+        piStacking: false,
+        weakHydrogenBond: false,
+        waterHydrogenBond: true,
+        backboneHydrogenBond: true,
+        maxPiStackingDist: 5.5,
+        maxPiStackingOffset: 2.0,
+        maxPiStackingAngle: 45,
+      });
+
+      // myZoom needs to be a string
+      myZoom = myZoom.toString();
+      // zooming on the selected  amino acid;
+      var center = o.getCenter(myZoom);
+      var zoom = o.getZoom(myZoom);
+      stage.animationControls.zoomMove(center, zoom, 1500);
+      // label selected amino acid
+      l = o.addRepresentation("label", {
+        sele: "( " + myZoom + " ) and .CA",
+        color: "orange",
+        scale: 1.0,
+      });
+
+      // show the selected residue in ball and stick
+      bns = bnsRepr.setSelection(myZoom);
+
+      // show residues around the selected one in licorice
+      var selection = new NGL.Selection(myZoom);
+      var radius = 5;
+
+      var atomSet = o.structure.getAtomSetWithinSelection(selection, radius);
+      atomSet2 = o.structure.getAtomSetWithinGroup(atomSet);
+      atomSet2 = atomSet2.toSeleString() + " AND NOT hydrogen";
+      lic = licRepr.setSelection(atomSet2);
+
+      // show contacts made by residues around the selected one
+      contacts = conRepr.setSelection(atomSet2);
+
+      // get back selected options regarding displayed interactions
+      if (typeof toggleHB === "undefined" || toggleHB === 0) {
+        contacts.setParameters({ hydrogenBond: false });
+        contacts.setParameters({ waterHydrogenBond: false });
+        contacts.setParameters({ backboneHydrogenBond: false });
+      }
+      if (typeof toggleIon === "undefined" || toggleIon === 0) {
+        contacts.setParameters({ ionicInteraction: false });
+      }
+      if (typeof toggleHydrop === "undefined" || toggleHydrop === 1) {
+        contacts.setParameters({ hydrophobic: true });
+      }
+      if (typeof toggleCatPi === "undefined" || toggleCatPi === 1) {
+        contacts.setParameters({ cationPi: true });
+      }
+      if (typeof togglePiStack === "undefined" || togglePiStack === 1) {
+        contacts.setParameters({ piStacking: true });
+      }
+    });
+  }
+
+  // Create NGL Stage object
+  var stage = new NGL.Stage("viewport", { backgroundColor: "white" });
+
+  // Handle window resizing
+  window.addEventListener(
+    "resize",
+    function (event) {
+      stage.handleResize();
+    },
+    false
+  );
+
+  fetchedPDB = fetch("/pdb/AF-Q99720-F1.pdb")
+    .then((response) => response.text())
+    .then((data) => {
+      pdbBlob = new Blob([data], { type: "text/plain" });
+      stage.loadFile(pdbBlob, { ext: "pdb" }).then(function (o) {
+        // to have the representation we want, we choose to use the "cartoon" one
+        o.addRepresentation("cartoon", {
+          sele: "*",
+          color: "chainname",
+        });
+        o.addRepresentation("licorice", {
+          sele: "hetero",
+          color: "element",
+        });
+        if (ligandName !== "") {
+          o.addRepresentation("ball+stick", {
+            sele: ligandName,
+            color: "element",
+          });
+        }
+        // console.log(o)
+        surRepr = o.addRepresentation("surface", {
+          sele: "protein",
+          colorScheme: "chainname",
+        });
+        if (toggleSur === 0) {
+          surRepr.setVisibility(false);
+        }
+        o.autoView();
+      });
+      zoomNGL(999, "LIG", data);
+    });
+</script>
