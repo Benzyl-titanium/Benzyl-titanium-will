@@ -125,7 +125,7 @@
     false
   );
 
-  fetchedPDB = fetch("/pdb/ligand.pdb")
+  fetchedPDB = fetch("https://github.com/Benzyl-titanium/Benzyl-titanium-will/blob/main/document/public/pdb/ligand.pdb")
     .then((response) => response.text())
     .then((data) => {
       pdbBlob = new Blob([data], { type: "text/plain" });
