@@ -7,4 +7,5 @@
 结构编辑器[marvin_windows-x64_24.3.0](https://github.com/Benzyl-titanium/Benzyl-titanium-will/archive/refs/heads/master.zip)
 ### URL
 结构编辑器[kingdraw](https://kingdraw.com/index?name=download)  
+结构编辑器[chemdraw](https://revvitysignals.com/products/research/chemdraw)  
 药物全合成路线[Chemistry By Design](https://chemistrybydesign.oia.arizona.edu/)
