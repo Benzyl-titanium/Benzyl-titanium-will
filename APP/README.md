@@ -4,7 +4,7 @@
 有机化学反应试题[apoc](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/apoc.apk)  
 药物全合成路线[ChemByRika](https://github.com/RikaKagurasaka/ChemByRika)
 ### EXE
-结构编辑器[https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/Marvin.zip)
+结构编辑器[marvin_windows-x64_24.3.0](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/Marvin.zip)
 ### URL
 结构编辑器[kingdraw](https://kingdraw.com/index?name=download)  
 结构编辑器[chemdraw](https://revvitysignals.com/products/research/chemdraw)  
