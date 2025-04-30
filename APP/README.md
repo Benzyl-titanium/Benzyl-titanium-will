@@ -7,6 +7,7 @@
 ### EXE
 
 * 结构编辑器[marvin_windows-x64_24.3.0](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/Marvin.zip)
+* 含能材料计算器[phptnXDeE](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/phptnXDeE.exe)
 
 ### URL
 
