@@ -17,5 +17,5 @@
 # 遗产
 
 * [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-* [猜无机化合物游戏](https://chemgame.netlify.app)
+* [猜无机化合物游戏](https://biantailab.github.io/chem-game/)
 * [化合物合成实验手册](https://chemhandbook.netlify.app)
