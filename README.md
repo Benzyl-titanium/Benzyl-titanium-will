@@ -1,6 +1,6 @@
 # 遗嘱
 
-说实话其实也没什么可留下的，只是自己常用的一些 **[URL](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app)** 和 **[软件](APP/README.md)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
+说实话其实也没什么可留下的，只是自己常用的一些 **[URL](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app)** 和 **[软件](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
 希望对你有所帮助…谢谢
 
 > 化学反应不过是一场电子竞赛，而我一生不过是一次奇妙旅行  
@@ -18,4 +18,6 @@
 
 * [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
 * [猜无机化合物游戏](https://biantailab.github.io/chem-game/)
-* [化合物合成实验手册](https://chemhandbook.netlify.app)
+* [化学合成实验手册](https://chemhandbook.netlify.app)
+* [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
+* [截至2024.07.01,中国全部的管制药品目录](https://github.com/Benzyl-titanium/Structural-formula)
