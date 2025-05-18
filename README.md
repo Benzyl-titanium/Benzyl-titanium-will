@@ -17,7 +17,9 @@
 # 遗产
 
 * [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-* [猜无机化合物游戏](https://biantailab.github.io/chem-game/)
+* [猜无机化合物游戏](https://benzyl-titanium.netlify.app/chemgame)
 * [化学合成实验手册](https://chemhandbook.netlify.app)
+* [700种常见化合物在水中的溶解度](https://https://benzyl-titanium.netlify.app/solubility)
 * [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
-* [截至2024.07.01,中国全部的管制药品目录](https://github.com/Benzyl-titanium/Structural-formula)
+* [截至2024.07.01,中国全部的管制药品目录](https://https://benzyl-titanium.netlify.app/structural-formula)
+* [设计药物](https://benzyl-titanium.netlify.app/designdrugs)
