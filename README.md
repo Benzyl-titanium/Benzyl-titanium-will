@@ -15,11 +15,19 @@
 
 # 遗产
 
+## Chem
+
 * [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-* [猜无机化合物游戏](https://benzyl-titanium.netlify.app/chemgame)
+* [猜无机化合物游戏](https://biantai.pages.dev/chemgame)
 * [化学合成实验手册](https://chemhandbook.netlify.app)
-* [化学结构编辑器Marvin JS](https://benzyl-titanium.netlify.app/marvin)
-* [700种常见化合物在水中的溶解度](https://https://benzyl-titanium.netlify.app/solubility)
+* [化学结构编辑器Marvin JS](https://marvinjs.pages.dev)
+* [700种常见化合物在水中的溶解度](https://biantai.pages.dev/solubility)
+* [同位素分析](https://zeeman.pages.dev)
 * [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
-* [截至2024.07.01,中国全部的管制药品目录](https://https://benzyl-titanium.netlify.app/structural-formula)
-* [设计药物](https://benzyl-titanium.netlify.app/designdrugs)
+* [有机物合成路线ChemByRika](https://chembyrika.netlify.app)
+
+## Drug
+
+* [截至2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/structural-formula)
+* [中国管制药品名录结构式&表格整合版](https://biantai.pages.dev/structural-formula)
+* [设计药物](https://biantai.pages.dev/designdrugs)
