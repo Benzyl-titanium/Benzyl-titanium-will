@@ -1,6 +1,6 @@
 # 遗嘱
 
-说实话其实也没什么可留下的，只是自己常用的一些 **[URL](docx/URL.md)** 和 **[软件](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
+说实话其实也没什么可留下的，只是自己常用的一些 **[URL](URL.md)** 和 **[软件](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app-2025.06.08)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
 希望对你有所帮助…谢谢
 
 > 化学反应不过是一场电子竞赛，而我一生不过是一次奇妙旅行  
@@ -17,17 +17,21 @@
 
 ## Chem
 
-* [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-* [猜无机化合物游戏](https://biantai.pages.dev/chemgame)
+* [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame)
 * [化学合成实验手册](https://chemhandbook.netlify.app)
 * [化学结构编辑器Marvin JS](https://marvinjs.pages.dev)
-* [700种常见化合物在水中的溶解度](https://biantai.pages.dev/solubility)
+* [700种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility)
 * [同位素分析](https://zeeman.pages.dev)
-* [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
+* [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem)
 * [有机物合成路线ChemByRika](https://chembyrika.netlify.app)
+* [smilesDrawer](https://github.com/Benzyl-titanium/smilesDrawer)
 
 ## Drug
 
-* [截至2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/structural-formula)
-* [中国管制药品名录结构式&表格整合版](https://biantai.pages.dev/structural-formula)
-* [设计药物](https://biantai.pages.dev/designdrugs)
+* [截至2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula)
+* [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs)
+
+## 文件下载
+
+* [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
+* [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
