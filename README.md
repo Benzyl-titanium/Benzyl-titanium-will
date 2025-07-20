@@ -19,10 +19,11 @@
 
 * [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame/)
 * [化学合成实验手册](https://chemhandbook.netlify.app)
-* [化学结构编辑器：从结构式搜索化合物](https://structuredsearch.pages.dev)
+* [StructuredSearch: 从结构式搜索化合物](https://structuredsearch.pages.dev)
 * [700种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility/)
 * [同位素分析](https://zeeman.pages.dev)
 * [有机物合成路线ChemByRika](https://chembyrika.netlify.app)
+* [KetchKitSearch: Search for compounds from structural formulas](https://ketchkitsearch.pages.dev)
 
 ## Drug
 
