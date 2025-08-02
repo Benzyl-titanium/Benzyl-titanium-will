@@ -17,20 +17,36 @@
 
 ## Chem
 
-* [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame/)
-* [化学合成实验手册](https://chemhandbook.netlify.app)
-* [StructuredSearch: 从结构式搜索化合物](https://structuredsearch.pages.dev)
-* [700种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility/)
-* [同位素分析](https://zeeman.pages.dev)
-* [有机物合成路线ChemByRika](https://chembyrika.netlify.app)
-* [KetchKitSearch: Search for compounds from structural formulas](https://ketchkitsearch.pages.dev)
+- [化学合成实验手册](https://benzyl-titanium.pages.dev/posts/chem/chemhandbook/)
+
+### 元素化学
+
+- [同位素分析](https://zeeman.pages.dev)
+- [ChemElemSplice: 化学元素拼接器](https://benzyl-titanium.pages.dev/posts/chem/chemelemsplice/)
+
+### 结构编辑器
+
+- [StructuredSearch: 从结构式搜索化合物](https://benzyl-titanium.pages.dev/posts/chem/structuredsearch/)
+- [KetchKitSearch: Search for compounds from structural formulas](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/)
+
+### 无机化学
+
+- [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame/)
+- [700 种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility/)
+
+### 有机化学
+
+- [babychem 基础有机化学手写笔记](https://benzyl-titanium.pages.dev/posts/chem/babychem/)
+- [有机物合成路线 ChemByRika](https://benzyl-titanium.pages.dev/posts/chem/chembyrika/)
+- [smilesDrawer: smiles to png/jpg/svg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/)
 
 ## Drug
 
-* [截至2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula/)
-* [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs/)
+- [截至 2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/Structural-formula/)
+- [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs/)
+- [管制药品结构式目录（2025年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
 
 ## 文件下载
 
-* [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-* [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
+- [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
+- [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
