@@ -1,6 +1,6 @@
 # 遗嘱
 
-说实话其实也没什么可留下的，只是自己常用的一些 **[URL](http://benzyl-titanium.pages.dev/posts/favorite/)** 和 **[软件](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app-2025.06.08)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
+说实话其实也没什么可留下的，只是自己常用的一些 **[URL](http://benzyl-titanium.pages.dev/posts/favorite/)** 和 **[软件](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/tag/app)** ,内容包括`化学`、`药学`以及`学术论文`，`专利文献检索`，都是我比较感兴趣的东西…  
 希望对你有所帮助…谢谢
 
 > 化学反应不过是一场电子竞赛，而我一生不过是一次奇妙旅行  
