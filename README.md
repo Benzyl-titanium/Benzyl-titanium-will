@@ -17,34 +17,45 @@
 
 ## Chem
 
-- [化学合成实验手册](https://benzyl-titanium.pages.dev/posts/chem/chemhandbook/)
+<!-- - [化学合成实验手册](https://benzyl-titanium.pages.dev/posts/chem/chemhandbook/) -->
 
 ### 元素化学
 
 - [同位素分析](https://zeeman.pages.dev)
+  - [Repo](https://github.com/biantailab/zeeman)
 - [ChemElemSplice: 化学元素拼接器](https://benzyl-titanium.pages.dev/posts/chem/chemelemsplice/)
+  - [Repo](https://github.com/Benzyl-titanium/ChemElemSplice)
 
 ### 结构编辑器
 
 - [StructuredSearch: 从结构式搜索化合物](https://benzyl-titanium.pages.dev/posts/chem/structuredsearch/)
+  - [Repo](https://github.com/biantailab/StructuredSearch)
 - [KetchKitSearch: Search for compounds from structural formulas](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/)
+  - [Repo](https://github.com/biantailab/KetchKitSearch)
 
 ### 无机化学
 
 - [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame/)
+  - [Repo](https://github.com/Benzyl-titanium/ChemGame)
 - [700 种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility/)
 
 ### 有机化学
 
 - [babychem 基础有机化学手写笔记](https://benzyl-titanium.pages.dev/posts/chem/babychem/)
+  - [Repo](https://github.com/Benzyl-titanium/BabyChem)
 - [有机物合成路线 ChemByRika](https://benzyl-titanium.pages.dev/posts/chem/chembyrika/)
+  - [Repo](https://github.com/biantailab/ChemByRika)
 - [smilesDrawer: smiles to png/jpg/svg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/)
+  - [Repo](https://github.com/biantailab/smilesDrawer)
 
 ## Drug
 
 - [截至 2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/Structural-formula/)
+  - [Repo](https://github.com/Benzyl-titanium/Structural-formula)
 - [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs/)
+  - [Repo](https://github.com/Benzyl-titanium/designdrugs)
 - [管制药品结构式目录（2025年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
+  - [Repo](https://github.com/Benzyl-titanium/Structural-formula)
 
 ## 文件下载
 
