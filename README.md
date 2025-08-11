@@ -47,6 +47,8 @@
   - [Repo](https://github.com/biantailab/ChemByRika)
 - [smilesDrawer: smiles to png/jpg/svg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/)
   - [Repo](https://github.com/biantailab/smilesDrawer)
+- [smilesDrawer 2D | smiles to png & jpg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer_2d/)
+  - [Repo](https://github.com/biantailab/smilesDrawer-2D)
 
 ## Drug
 
