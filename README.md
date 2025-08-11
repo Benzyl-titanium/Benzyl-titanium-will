@@ -61,6 +61,7 @@
 
 - [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
 - [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
+- [Julien 精神药理学](https://github.com/Benzyl-titanium/Julien-Primer-of-Drug-Action/releases/download/14/Julien-Primer-of-Drug-Action.pdf)
 
 # APP
 
