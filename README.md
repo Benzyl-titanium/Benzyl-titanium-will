@@ -52,7 +52,7 @@
 
 ## Drug
 
-- [截至 2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/Structural-formula/)
+- [截至 2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula/)
   - [Repo](https://github.com/Benzyl-titanium/Structural-formula)
 - [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs/)
   - [Repo](https://github.com/Benzyl-titanium/designdrugs)
