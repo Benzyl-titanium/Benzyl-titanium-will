@@ -23,15 +23,17 @@
 
 - [同位素分析](https://zeeman.pages.dev)
   - [Repo](https://github.com/biantailab/zeeman)
-- [ChemElemSplice: 化学元素拼接器](https://benzyl-titanium.pages.dev/posts/chem/chemelemsplice/)
+- [ChemElemSplice](https://benzyl-titanium.pages.dev/posts/chem/chemelemsplice/) - 化学元素拼接器
   - [Repo](https://github.com/Benzyl-titanium/ChemElemSplice)
 
 ### 结构编辑器
 
-- [StructuredSearch: 从结构式搜索化合物](https://benzyl-titanium.pages.dev/posts/chem/structuredsearch/)
+- [StructuredSearch](https://benzyl-titanium.pages.dev/posts/chem/structuredsearch/) - 从结构式搜索化合物
   - [Repo](https://github.com/biantailab/StructuredSearch)
-- [KetchKitSearch: Search for compounds from structural formulas](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/)
+- [KetchKitSearch](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/) - Search for compounds from structural formulas
   - [Repo](https://github.com/biantailab/KetchKitSearch)
+- [KetchKekuleSearch](/posts/chem/ketchkekulesearch/) - 基于Ketcher和Kekule.js从分子结构中搜索化合物信息
+  -[Repo](https://github.com/biantailab/KetchKekuleSearch)
 
 ### 无机化学
 
@@ -45,9 +47,9 @@
   - [Repo](https://github.com/Benzyl-titanium/BabyChem)
 - [有机物合成路线 ChemByRika](https://benzyl-titanium.pages.dev/posts/chem/chembyrika/)
   - [Repo](https://github.com/biantailab/ChemByRika)
-- [smilesDrawer: smiles to png/jpg/svg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/)
+- [smilesDrawer](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/) - smiles to png/jpg/svg
   - [Repo](https://github.com/biantailab/smilesDrawer)
-- [smilesDrawer 2D | smiles to png & jpg](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer_2d/)
+- [smilesDrawer 2D](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer_2d/) -  smiles to png & jpg
   - [Repo](https://github.com/biantailab/smilesDrawer-2D)
 
 ## Drug
@@ -62,7 +64,7 @@
 ## 文件下载
 
 - [试剂清单](https://github.com/Benzyl-titanium/Benzyl-titanium-will/releases/download/app/BianTai_LAB.xlsx)
-- [babychem基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
+- [babychem 基础有机化学手写笔记](https://github.com/Benzyl-titanium/BabyChem/releases/download/organic-chemistry/BabyChem.pdf)
 - [Julien 精神药理学](https://github.com/Benzyl-titanium/Julien-Primer-of-Drug-Action/releases/download/14/Julien-Primer-of-Drug-Action.pdf)
 
 # APP
