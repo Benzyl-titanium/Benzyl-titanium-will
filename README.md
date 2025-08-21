@@ -32,7 +32,7 @@
   - [Repo](https://github.com/biantailab/StructuredSearch)
 - [KetchKitSearch](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/) - Search for compounds from structural formulas
   - [Repo](https://github.com/biantailab/KetchKitSearch)
-- [KetchKekuleSearch](/posts/chem/ketchkekulesearch/) - 基于Ketcher和Kekule.js从分子结构中搜索化合物信息
+- [KetchKekuleSearch](https://benzyl-titanium.pages.dev/posts/chem/ketchkekulesearch/) - 基于Ketcher和Kekule.js从分子结构中搜索化合物信息
   -[Repo](https://github.com/biantailab/KetchKekuleSearch)
 
 ### 无机化学
