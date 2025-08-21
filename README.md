@@ -33,7 +33,7 @@
 - [KetchKitSearch](https://benzyl-titanium.pages.dev/posts/chem/ketchkitsearch/) - Search for compounds from structural formulas
   - [Repo](https://github.com/biantailab/KetchKitSearch)
 - [KetchKekuleSearch](https://benzyl-titanium.pages.dev/posts/chem/ketchkekulesearch/) - 基于Ketcher和Kekule.js从分子结构中搜索化合物信息
-  -[Repo](https://github.com/biantailab/KetchKekuleSearch)
+  - [Repo](https://github.com/biantailab/KetchKekuleSearch)
 
 ### 无机化学
 
@@ -45,7 +45,7 @@
 
 - [babychem 基础有机化学手写笔记](https://benzyl-titanium.pages.dev/posts/chem/babychem/)
   - [Repo](https://github.com/Benzyl-titanium/BabyChem)
-- [有机物合成路线 ChemByRika](https://benzyl-titanium.pages.dev/posts/chem/chembyrika/)
+- [ChemByRika](https://benzyl-titanium.pages.dev/posts/chem/chembyrika/) - 有机物合成路线
   - [Repo](https://github.com/biantailab/ChemByRika)
 - [smilesDrawer](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/) - smiles to png/jpg/svg
   - [Repo](https://github.com/biantailab/smilesDrawer)
