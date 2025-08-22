@@ -51,6 +51,8 @@
   - [Repo](https://github.com/biantailab/smilesDrawer)
 - [smilesDrawer 2D](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer_2d/) -  smiles to png & jpg
   - [Repo](https://github.com/biantailab/smilesDrawer-2D)
+- [SMILES to](https://benzyl-titanium.pages.dev/posts/chem/smiles_to/) -  SMILES to PDB & MOL & PNG
+  - [Repo](https://github.com/biantailab/SMILES-to)
 
 ## Drug
 
