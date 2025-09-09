@@ -26,21 +26,61 @@
 
 ![Chemical Structure Search](imgs/chemical-structure-search.png)
 
+# 药物副作用
+
+## [Drug Side Effects](https://www.drugs.com/sfx/)
+
+![Drug Side Effects](imgs/drug-side-effects.png)
+
 # 药物相互作用
 
-## [Drug Interaction Checker](https://go.drugbank.com/drug-interaction-checker)
+## [DrugBank](https://go.drugbank.com/drug-interaction-checker)
 
 ![Drug Interaction Checker](imgs/drug-interaction-checker.png)
 
+## [Medscape](https://reference.medscape.com/drug-interactionchecker)
+
+![Drug Interaction Checker](imgs/drug-interaction.png)
+
+## [Drugs](http://drugs.com/drug_interactions.html)
+
+![Drug Interaction Checker](imgs/interaction-checker.png)
+
 # 寻找药物
 
-## [MCE](https://www.medchemexpress.com/search.html?q=product&ft=&fa=&fp=&type=screening-libraries)
+## 通过受体寻找
+
+### [MCE](https://www.medchemexpress.com/search.html?q=product&ft=&fa=&fp=&type=screening-libraries)
 
 ![MCE](imgs/mce.png)
 
-## [ATC Classification](https://go.drugbank.com/atc)
+## 通过疾病寻找
+
+### [ATC Classification](https://go.drugbank.com/atc)
 
 ![ATC](imgs/atc.png)
+
+### [Medscape](https://reference.medscape.com/drugs)
+
+![Medscape](imgs/medscape.png)
+
+# 医学工具与参考
+
+## [Tools & Reference](https://reference.medscape.com/)
+
+![Tools & Reference](imgs/tools-reference.png)
+
+## 药物识别工具
+
+### [Pill Identifier](https://reference.medscape.com/pill-identifierimage.png)
+
+![pill-identifier](imgs/pill-identifier.png)
+
+## 医学计算器和量表
+
+### [Medical Calculators](https://reference.medscape.com/guide/medical-calculators)
+
+![Medical Calculators](imgs/calculators.png)
 
 # 数据库
 
