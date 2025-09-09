@@ -72,7 +72,7 @@
 
 ## 药物识别工具
 
-### [Pill Identifier](https://reference.medscape.com/pill-identifierimage.png)
+### [Pill Identifier](https://reference.medscape.com/pill-identifier)
 
 ![pill-identifier](imgs/pill-identifier.png)
 
