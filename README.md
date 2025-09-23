@@ -49,8 +49,8 @@
   - [Repo](https://github.com/biantailab/ChemByRika)
 - [smilesDrawer](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer/) - smiles to png/jpg/svg
   - [Repo](https://github.com/biantailab/smilesDrawer)
-- [smilesDrawer 2D](https://benzyl-titanium.pages.dev/posts/chem/smilesdrawer_2d/) -  smiles to png & jpg
-  - [Repo](https://github.com/biantailab/smilesDrawer-2D)
+- [smilesShow](https://benzyl-titanium.pages.dev/posts/chem/smilesshow/) -  smiles to png & jpg & 3D
+  - [Repo](https://github.com/biantailab/smilesshow)
 - [SMILES to](https://benzyl-titanium.pages.dev/posts/chem/smiles_to/) -  SMILES to PDB & MOL & PNG
   - [Repo](https://github.com/biantailab/SMILES-to)
 
