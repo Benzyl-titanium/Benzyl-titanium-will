@@ -18,6 +18,7 @@
 ## Chem
 
 <!-- - [化学合成实验手册](https://benzyl-titanium.pages.dev/posts/chem/chemhandbook/) -->
+- [Telegram的CAS查询机器人](https://benzyl-titanium.pages.dev/posts/chem/cas_search_bot/)
 
 ### 元素化学
 
