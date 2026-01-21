@@ -38,8 +38,8 @@
 
 ### 无机化学
 
-- [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemgame/)
-  - [Repo](https://github.com/Benzyl-titanium/ChemGame)
+- [猜无机化合物游戏](https://benzyl-titanium.pages.dev/posts/chem/chemwordle/)
+  - [Repo](https://github.com/Benzyl-titanium/ChemWordle)
 - [700 种常见化合物在水中的溶解度](https://benzyl-titanium.pages.dev/posts/chem/solubility/)
 
 ### 有机化学
@@ -57,12 +57,13 @@
 
 ## Drug
 
-- [截至 2024.07.01,中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula/)
-  - [Repo](https://github.com/Benzyl-titanium/Structural-formula)
+- [截至2025.07.01，中国全部的管制药品目录](https://benzyl-titanium.pages.dev/posts/drug/structural-formula/)
 - [设计药物](https://benzyl-titanium.pages.dev/posts/drug/designdrugs/)
   - [Repo](https://github.com/Benzyl-titanium/designdrugs)
 - [管制药品结构式目录（2025年版）](https://benzyl-titanium.pages.dev/posts/drug/structured-catalogue/)
   - [Repo](https://github.com/Benzyl-titanium/Structural-formula)
+- [按结构式分类的管制药品目录（2025 年版）](https://benzyl-titanium.pages.dev/posts/drug/list_of_controlled_drugs/)
+- [易制毒化学品结构式名录（2024年版）](https://benzyl-titanium.pages.dev/posts/drug/catalogue_of_precursor_chemicals/)
 
 ## 文件下载
 
